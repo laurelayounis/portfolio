@@ -991,7 +991,7 @@ header p {
   font-weight: 400;
   letter-spacing: 0.075em;
   margin-top: -0.5em;
-  text-transform: uppercase; }
+   }
 
 header.major > :last-child {
   border-bottom: solid 3px #f56a6a;
@@ -2267,3 +2267,8 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+
+    #aboutMe{
+      font-size: 15px;
+    }
